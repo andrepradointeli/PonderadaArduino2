@@ -1,7 +1,7 @@
 // Definindo as portas dos LEDs
-const int ledVermelho = 13;
+const int ledVermelho = 11;
 const int ledAmarelo = 12;
-const int ledVerde = 11;
+const int ledVerde = 13;
 
 void setup() {
   // Configurando as portas dos LEDs como saídas
