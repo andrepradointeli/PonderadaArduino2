@@ -29,9 +29,6 @@ void loop() {
   digitalWrite(ledVerde, HIGH);
   delay(2000); // Espera 2 segundos
 
-  // Tempo adicional no Verde - +2 segundos
-  delay(2000); // Espera mais 2 segundos
-
   // Fase Amarela - 2 segundos antes de retornar ao vermelho
   digitalWrite(ledVermelho, LOW);
   digitalWrite(ledAmarelo, HIGH);
