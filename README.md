@@ -50,7 +50,6 @@ Nesta etapa eu realizei o código para o projeto. O código fonte está no repos
 - 6 segundos no vermelho
 - 2 segundos no amarelo
 - 2 segundos no verde
-- 2 segundos de pausa para separação de tempo do led verde
 - +2 segundos no verde (simulando um tempo adicional para pedestres terminarem a travessia)
 - 2 segundos no amarelo
 
